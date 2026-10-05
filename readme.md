@@ -33,7 +33,7 @@ namespace Program1
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/1.png">
 </picture>
 
 
