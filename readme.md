@@ -30,8 +30,12 @@ namespace Program1
         }
     }
 }
+
 ```
-![№1](images/1.png)
+`Результат выполнения:`
+<picture>
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/1.png">
+</picture>
 
 
 
@@ -785,7 +789,7 @@ namespace Program20
 ```
 `Результат выполнения:`
 <picture>
-  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/14.png">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/20.png">
 </picture>
 
 
@@ -826,7 +830,7 @@ namespace Program21
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/21.png">
 </picture>
 
 
@@ -867,7 +871,7 @@ namespace Program22
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/22.png">
 </picture>
 
 > ### Программа 23. 
@@ -909,7 +913,7 @@ namespace Program23
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/23.png">
 </picture>
 
 
@@ -950,7 +954,7 @@ namespace Program24
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/24.png">
 </picture>
 
 
@@ -996,7 +1000,7 @@ namespace Program25
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/25.png">
 </picture>
 
 
@@ -1038,7 +1042,7 @@ namespace Program26
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/26.png">
 </picture>
 
 
@@ -1077,7 +1081,7 @@ namespace Program27
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/27.png">
 </picture>
 
 
@@ -1114,7 +1118,7 @@ namespace Program28
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/28.png">
 </picture>
 
 
@@ -1151,7 +1155,7 @@ namespace Program29
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/29.png">
 </picture>
 
 
@@ -1189,7 +1193,7 @@ namespace Program30
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/30.png">
 </picture>
 
 
@@ -1230,7 +1234,7 @@ namespace Program31
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/31.png">
 </picture>
 
 > ### Программа 32. 
@@ -1266,7 +1270,7 @@ namespace Program32
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/32.png">
 </picture>
 
 
@@ -1310,7 +1314,7 @@ namespace Program33
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/33.png">
 </picture>
 
 
@@ -1354,7 +1358,7 @@ namespace Program34
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/34.png">
 </picture>
 
 
@@ -1391,7 +1395,7 @@ namespace Program35
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/35.png">
 </picture>
 
 
@@ -1434,7 +1438,7 @@ namespace Program36
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/36.png">
 </picture>
 
 
@@ -1472,7 +1476,7 @@ namespace Program37
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/37.png">
 </picture>
 
 > ### Программа 38. 
@@ -1511,7 +1515,7 @@ namespace Program38
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/38.png">
 </picture>
 
 
@@ -1551,7 +1555,7 @@ namespace Program39
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/39.png">
 </picture>
 
 
@@ -1595,7 +1599,7 @@ namespace Program40
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/40.png">
 </picture>
 
 
@@ -1633,7 +1637,7 @@ namespace Program41
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/41.png">
 </picture>
 
 
@@ -1673,7 +1677,7 @@ namespace Program42
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/42.png">
 </picture>
 
 
@@ -1711,7 +1715,7 @@ namespace Program43
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/43.png">
 </picture>
 
 
@@ -1754,7 +1758,7 @@ namespace Program44
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/44.png">
 </picture>
 
 
@@ -1789,7 +1793,7 @@ namespace Program45
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/45.png">
 </picture>
 
 
@@ -1827,7 +1831,7 @@ namespace Program46
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/46.png">
 </picture>
 
 
@@ -1865,7 +1869,7 @@ namespace Program47
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/47.png">
 </picture>
 
 > ### Программа 48. 
@@ -1901,7 +1905,7 @@ namespace Program48
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/48.png">
 </picture>
 
 
@@ -1945,7 +1949,7 @@ namespace Program49
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/49.png">
 </picture>
 
 
@@ -1986,7 +1990,7 @@ namespace Program50
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/50.png">
 </picture>
 
 
@@ -2040,7 +2044,7 @@ namespace Program51
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/51.png">
 </picture>
 
 
@@ -2084,7 +2088,7 @@ namespace Program52
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/52.png">
 </picture>
 
 
@@ -2125,7 +2129,7 @@ namespace Program53
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/53.png">
 </picture>
 
 
@@ -2167,7 +2171,7 @@ namespace Program54
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/54.png">
 </picture>
 
 
@@ -2210,9 +2214,8 @@ namespace Program55
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/55.png">
 </picture>
----
 
 
 
@@ -2251,7 +2254,7 @@ namespace Program56
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/56.png">
 </picture>
 
 
@@ -2292,7 +2295,7 @@ namespace Program57
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/57.png">
 </picture>
 
 
@@ -2333,7 +2336,7 @@ namespace Program58
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/58.png">
 </picture>
 
 
@@ -2379,7 +2382,7 @@ namespace Program59
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/59.png">
 </picture>
 
 
@@ -2420,7 +2423,7 @@ namespace Program60
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/60.png">
 </picture>
 
 
@@ -2462,7 +2465,7 @@ namespace Program61
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/61.png">
 </picture>
 
 
@@ -2509,7 +2512,7 @@ namespace Program62
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/62.png">
 </picture>
 
 
@@ -2560,7 +2563,7 @@ namespace Program63
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/63.png">
 </picture>
 
 
@@ -2611,7 +2614,7 @@ namespace Program64
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/64.png">
 </picture>
 
 
@@ -2660,7 +2663,7 @@ namespace Program65
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/65.png">
 </picture>
 
 
@@ -2703,7 +2706,7 @@ namespace Program66
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/66.png">
 </picture>
 
 
@@ -2747,7 +2750,7 @@ namespace Program67
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/67.png">
 </picture>
 
 
@@ -2789,7 +2792,7 @@ namespace Program68
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/68.png">
 </picture>
 
 
@@ -2836,7 +2839,7 @@ namespace Program69
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/69.png">
 </picture>
 
 
@@ -2879,7 +2882,7 @@ namespace Program70
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/70.png">
 </picture>
 
 
@@ -2923,7 +2926,7 @@ namespace Program71
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/71.png">
 </picture>
 
 
@@ -2966,7 +2969,7 @@ namespace Program72
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/72.png">
 </picture>
 
 > ### Программа 73. 
@@ -3026,7 +3029,7 @@ namespace Program73
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/73.png">
 </picture>
 
 
@@ -3066,7 +3069,7 @@ namespace Program74
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/74.png">
 </picture>
 
 
@@ -3110,7 +3113,7 @@ namespace Program75
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/75.png">
 </picture>
 
 
@@ -3149,7 +3152,7 @@ namespace Program76
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/76.png">
 </picture>
 
 
@@ -3190,7 +3193,7 @@ namespace Program77
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/77.png">
 </picture>
 
 
@@ -3230,7 +3233,7 @@ namespace Program78
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/78.png">
 </picture>
 
 
@@ -3269,7 +3272,7 @@ namespace Program79
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/79.png">
 </picture>
 
 
@@ -3310,7 +3313,7 @@ namespace Program80
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/80.png">
 </picture>
 
 
@@ -3351,7 +3354,7 @@ namespace Program81
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/81.png">
 </picture>
 
 > ### Программа 82. 
@@ -3391,7 +3394,7 @@ namespace Program82
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/82.png">
 </picture>
 
 
@@ -3439,7 +3442,7 @@ namespace Program83
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/83.png">
 </picture>
 
 
@@ -3488,7 +3491,7 @@ namespace Program84
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/84.png">
 </picture>
 
 
@@ -3529,7 +3532,7 @@ namespace Program85
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/85.png">
 </picture>
 
 
@@ -3574,7 +3577,7 @@ namespace Program86
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/86.png">
 </picture>
 
 
@@ -3616,7 +3619,7 @@ namespace Program87
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/87.png">
 </picture>
 
 > ### Программа 88. 
@@ -3654,7 +3657,7 @@ namespace Program88
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/88.png">
 </picture>
 
 
@@ -3698,7 +3701,7 @@ namespace Program89
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/89.png">
 </picture>
 
 
@@ -3743,7 +3746,7 @@ namespace Program90
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/90.png">
 </picture>
 
 
@@ -3783,7 +3786,7 @@ namespace Program91
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/91.png">
 </picture>
 
 
@@ -3829,7 +3832,7 @@ namespace Program92
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/92.png">
 </picture>
 
 
@@ -3873,7 +3876,7 @@ namespace Program93
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/93.png">
 </picture>
 
 
@@ -3914,7 +3917,7 @@ namespace Program94
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/94.png">
 </picture>
 
 
@@ -3952,7 +3955,7 @@ namespace Program95
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/95.png">
 </picture>
 
 
@@ -3995,7 +3998,7 @@ namespace Program96
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/96.png">
 </picture>
 
 
@@ -4035,7 +4038,7 @@ namespace Program97
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/97.png">
 </picture>
 
 > ### Программа 98. 
@@ -4074,7 +4077,7 @@ namespace Program98
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/98.png">
 </picture>
 
 
@@ -4118,7 +4121,7 @@ namespace Program99
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/99.png">
 </picture>
 
 
@@ -4163,7 +4166,7 @@ namespace Program100
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/100.png">
 </picture>
 
 ## Раздел 3. Составные логические условия &&, ||, !
@@ -4198,7 +4201,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/101.png">
 </picture>
 
 
@@ -4234,7 +4237,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/102.png">
 </picture>
 
 
@@ -4268,7 +4271,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/103.png">
 </picture>
 
 
@@ -4303,7 +4306,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/104.png">
 </picture>
 
 
@@ -4338,9 +4341,9 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/105.png">
 </picture>
----
+
 
 
 
@@ -4374,7 +4377,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/106.png">
 </picture>
 
 
@@ -4410,7 +4413,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/107.png">
 </picture>
 
 
@@ -4444,7 +4447,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/108.png">
 </picture>
 
 
@@ -4480,7 +4483,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/109.png">
 </picture>
 
 
@@ -4517,7 +4520,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/110.png">
 </picture>
 
 
@@ -4553,7 +4556,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/111.png">
 </picture>
 
 
@@ -4593,7 +4596,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/112.png">
 </picture>
 
 
@@ -4632,7 +4635,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/113.png">
 </picture>
 
 
@@ -4671,7 +4674,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/114.png">
 </picture>
 
 
@@ -4710,7 +4713,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/115.png">
 </picture>
 
 
@@ -4749,7 +4752,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/116.png">
 </picture>
 
 
@@ -4791,7 +4794,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/117.png">
 </picture>
 
 
@@ -4826,7 +4829,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/118.png">
 </picture>
 
 
@@ -4864,7 +4867,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/119.png">
 </picture>
 
 
@@ -4910,7 +4913,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/120.png">
 </picture>
 
 
@@ -4951,7 +4954,7 @@ Console.WriteLine(userInput178 ? "Дата корректна" : "Дата не�
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/121.png">
 </picture>
 
 
@@ -4984,7 +4987,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/122.png">
 </picture>
 
 > ### Программа 123. 
@@ -5025,7 +5028,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/123.png">
 </picture>
 
 
@@ -5061,7 +5064,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/124.png">
 </picture>
 
 
@@ -5097,7 +5100,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/125.png">
 </picture>
 
 
@@ -5134,7 +5137,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/126.png">
 </picture>
 
 
@@ -5170,7 +5173,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/127.png">
 </picture>
 
 
@@ -5206,7 +5209,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/128.png">
 </picture>
 
 
@@ -5242,7 +5245,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/129.png">
 </picture>
 
 
@@ -5279,7 +5282,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/130.png">
 </picture>
 
 
@@ -5317,7 +5320,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/131.png">
 </picture>
 
 > ### Программа 132. 
@@ -5352,7 +5355,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/132.png">
 </picture>
 
 
@@ -5393,7 +5396,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/133.png">
 </picture>
 
 
@@ -5433,7 +5436,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/134.png">
 </picture>
 
 
@@ -5466,7 +5469,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/135.png">
 </picture>
 
 
@@ -5502,7 +5505,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/136.png">
 </picture>
 
 
@@ -5541,7 +5544,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/137.png">
 </picture>
 
 > ### Программа 138. 
@@ -5574,7 +5577,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/138.png">
 </picture>
 
 
@@ -5619,7 +5622,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/139.png">
 </picture>
 
 
@@ -5657,7 +5660,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/140.png">
 </picture>
 
 
@@ -5693,7 +5696,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/141.png">
 </picture>
 
 
@@ -5727,7 +5730,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/142.png">
 </picture>
 
 
@@ -5762,7 +5765,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/143.png">
 </picture>
 
 
@@ -5798,7 +5801,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/144.png">
 </picture>
 
 
@@ -5839,7 +5842,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/145.png">
 </picture>
 
 
@@ -5882,7 +5885,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/146.png">
 </picture>
 
 
@@ -5918,7 +5921,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/147.png">
 </picture>
 
 > ### Программа 148. 
@@ -5958,7 +5961,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/148.png">
 </picture>
 
 
@@ -5995,7 +5998,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/149.png">
 </picture>
 
 
@@ -6033,7 +6036,7 @@ else
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/150.png">
 </picture>
 
 
@@ -6074,7 +6077,7 @@ switch (userInput270)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/151.png">
 </picture>
 
 
@@ -6114,7 +6117,7 @@ switch (userInput271)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/152.png">
 </picture>
 
 
@@ -6160,7 +6163,7 @@ switch (userInput272)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/153.png">
 </picture>
 
 
@@ -6201,7 +6204,7 @@ switch (userInput273)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/154.png">
 </picture>
 
 
@@ -6240,9 +6243,9 @@ switch (userInput274)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/155.png">
 </picture>
----
+
 
 
 
@@ -6280,7 +6283,7 @@ switch (userInput275)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/156.png">
 </picture>
 
 
@@ -6324,7 +6327,7 @@ switch (userInput278)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/157.png">
 </picture>
 
 
@@ -6362,7 +6365,7 @@ switch (userInput279)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/158.png">
 </picture>
 
 
@@ -6411,7 +6414,7 @@ switch (userInput280)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/159.png">
 </picture>
 
 
@@ -6448,7 +6451,7 @@ switch (userInput286)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/160.png">
 </picture>
 
 
@@ -6488,7 +6491,7 @@ switch (userInput287)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/161.png">
 </picture>
 
 
@@ -6533,7 +6536,7 @@ switch (userInput288)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/162.png">
 </picture>
 
 
@@ -6578,7 +6581,7 @@ switch (userInput289)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/163.png">
 </picture>
 
 
@@ -6623,7 +6626,7 @@ switch (userInput291)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/164.png">
 </picture>
 
 
@@ -6667,7 +6670,7 @@ switch (userInput293)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/165.png">
 </picture>
 
 
@@ -6708,7 +6711,7 @@ switch (userInput294)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/166.png">
 </picture>
 
 
@@ -6749,7 +6752,7 @@ switch (userInput295)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/167.png">
 </picture>
 
 
@@ -6790,7 +6793,7 @@ switch (userInput296)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/168.png">
 </picture>
 
 
@@ -6831,7 +6834,7 @@ switch (userInput297)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/169.png">
 </picture>
 
 
@@ -6872,7 +6875,7 @@ switch (userInput298)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/170.png">
 </picture>
 
 
@@ -6916,7 +6919,7 @@ switch (userInput299)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/171.png">
 </picture>
 
 
@@ -6952,7 +6955,7 @@ switch (userInput300)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/172.png">
 </picture>
 
 > ### Программа 173. 
@@ -6988,7 +6991,7 @@ switch (userInput301)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/173.png">
 </picture>
 
 
@@ -7028,7 +7031,7 @@ switch (userInput302)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/174.png">
 </picture>
 
 
@@ -7065,7 +7068,7 @@ switch (userInput303)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/175.png">
 </picture>
 
 
@@ -7102,7 +7105,7 @@ switch (userInput304)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/176.png">
 </picture>
 
 
@@ -7147,7 +7150,7 @@ switch (userInput305)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/177.png">
 </picture>
 
 
@@ -7187,7 +7190,7 @@ switch (userInput306)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/178.png">
 </picture>
 
 
@@ -7224,7 +7227,7 @@ switch (userInput307)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/179.png">
 </picture>
 
 
@@ -7261,7 +7264,7 @@ switch (userInput308)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/180.png">
 </picture>
 
 
@@ -7299,7 +7302,7 @@ switch (userInput309)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/181.png">
 </picture>
 
 > ### Программа 182. 
@@ -7336,7 +7339,7 @@ switch (userInput310)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/182.png">
 </picture>
 
 
@@ -7381,7 +7384,7 @@ switch (userInput311)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/183.png">
 </picture>
 
 
@@ -7426,7 +7429,7 @@ switch (userInput312)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/184.png">
 </picture>
 
 
@@ -7464,7 +7467,7 @@ switch (userInput313)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/185.png">
 </picture>
 
 
@@ -7503,7 +7506,7 @@ switch (userInput315)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/186.png">
 </picture>
 
 
@@ -7542,7 +7545,7 @@ switch (userInput316)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/187.png">
 </picture>
 
 > ### Программа 188. 
@@ -7579,7 +7582,7 @@ switch (userInput317)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/188.png">
 </picture>
 
 
@@ -7620,7 +7623,7 @@ switch (userInput318)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/189.png">
 </picture>
 
 
@@ -7661,7 +7664,7 @@ switch (userInput319)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/190.png">
 </picture>
 
 
@@ -7702,7 +7705,7 @@ switch (userInput320)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/191.png">
 </picture>
 
 
@@ -7741,7 +7744,7 @@ switch (userInput321)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/192.png">
 </picture>
 
 
@@ -7779,7 +7782,7 @@ switch (userInput322)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/193.png">
 </picture>
 
 
@@ -7817,7 +7820,7 @@ switch (userInput323)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/194.png">
 </picture>
 
 
@@ -7851,7 +7854,7 @@ switch (userInput324)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/195.png">
 </picture>
 
 
@@ -7889,7 +7892,7 @@ switch (userInput325)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/196.png">
 </picture>
 
 
@@ -7928,7 +7931,7 @@ switch (userInput326)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/197.png">
 </picture>
 
 > ### Программа 198. 
@@ -7965,7 +7968,7 @@ switch (userInput327)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/198.png">
 </picture>
 
 
@@ -8004,7 +8007,7 @@ switch (userInput328)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/199.png">
 </picture>
 
 
@@ -8045,7 +8048,7 @@ switch (userInput329)
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/200.png">
 </picture>
 ```
 🧑‍💻 Ссылка на практическую работу №1 и преподавателя [github](https://github.com/U5er01Task/Fundamentals-of-Algorithmization-and-Programming-2026/tree/main) - [Преподаватель](https://github.com/U5er01Task)
