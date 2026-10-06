@@ -1,4 +1,4 @@
-># Практическая работа №1: Базовые типы данных, консольный ввод-вывод и приведение типов в C#
+># Практическая работа №3: Управляющие конструкции и операторы ветвления в C# (if, else if, else, switch)
 
 ## Раздел 1. Базовые условия if и if-else
 
@@ -71,7 +71,7 @@ namespace Program2
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/2.png">
 </picture>
 
 
@@ -108,7 +108,7 @@ namespace Program3
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/3.png">
 </picture>
 
 
@@ -146,7 +146,7 @@ else Console.WriteLine(userInput6);
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/4.png">
 </picture>
 
 
@@ -183,9 +183,9 @@ namespace Program5
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/5.png">
 </picture>
----
+
 
 
 
@@ -220,7 +220,7 @@ namespace Program6
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/6.png">
 </picture>
 
 
@@ -256,7 +256,7 @@ namespace Program7
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/7.png">
 </picture>
 
 
@@ -295,7 +295,7 @@ namespace Program8
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/8.png">
 </picture>
 
 
@@ -337,7 +337,7 @@ namespace Program9
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/9.png">
 </picture>
 
 
@@ -376,7 +376,7 @@ namespace Program10
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/10.png">
 </picture>
 
 
@@ -414,7 +414,7 @@ namespace Program11
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/11.png">
 </picture>
 
 
@@ -458,7 +458,7 @@ namespace Program12
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/12.png">
 </picture>
 
 
@@ -502,7 +502,7 @@ namespace Program13
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/13.png">
 </picture>
 
 
@@ -545,7 +545,7 @@ namespace Program14
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/14.png">
 </picture>
 
 
