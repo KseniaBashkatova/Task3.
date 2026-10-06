@@ -31,10 +31,7 @@ namespace Program1
     }
 }
 ```
-`Результат выполнения:`
-<picture>
-  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/1.png">
-</picture>
+![№1](images/1.png)
 
 
 
@@ -586,7 +583,7 @@ namespace Program15
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/15.png">
 </picture>
 
 
@@ -627,7 +624,7 @@ namespace Program16
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/16.png">
 </picture>
 
 
@@ -670,7 +667,7 @@ namespace Program17
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/17.png">
 </picture>
 
 
@@ -708,7 +705,7 @@ namespace Program18
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/18.png">
 </picture>
 
 
@@ -748,7 +745,7 @@ namespace Program19
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/19.png">
 </picture>
 
 
@@ -788,7 +785,7 @@ namespace Program20
 ```
 `Результат выполнения:`
 <picture>
-  <img src="">
+  <img src="https://github.com/KseniaBashkatova/Task3./blob/main/assets/screens/14.png">
 </picture>
 
 
